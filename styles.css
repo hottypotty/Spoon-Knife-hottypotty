@@ -3,15 +3,20 @@
   padding:0px;
 }
 
-#octocat {
-  display: inline;
-  width:300px;
-  margin: 10px auto;
+img {
+  display: block;
+  width:600px;
+  margin: 1px auto;
+  
 }
 
 p {
   display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  width: 300px;
+  margin: 1px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  font-style: italic;
+  color: rgb(252, 5, 128);
+
 }
